@@ -1,0 +1,46 @@
+@font-face{
+   font-family: "DMsans";
+   src: url("DMSans-VariableFont_opsz\,wght.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Stalysa";
+    src: url("Stalysta_personal\ use.ttf") format("truetype");
+ }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 33px;
+}
+.palavras{
+    font-family: "DMsans", sans-serif;
+display: flex;
+flex-direction: row;
+font-size: 21px;
+color: #444444;
+}
+
+.espcabe, .espacabe{
+    width: 300px;
+}
+
+.palavras .Soffia{
+    padding: 0px 130px;
+}
+.engrenagem img{
+    width: 30px;
+    height:30px ;
+}
+
+.menu img{
+    width: 30px;
+    height:30px ;
+}
