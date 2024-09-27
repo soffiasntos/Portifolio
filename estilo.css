@@ -44,3 +44,247 @@ color: #444444;
     width: 30px;
     height:30px ;
 }
+
+.partecima{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.botao{
+    background-color: black;
+    color: white;
+    border-radius: 17px;
+    padding: 10px 48px;
+    margin-left: 20px;
+    font-family: "DMsans", sans-serif;
+    font-size: 18px;
+    
+}
+
+#bt {
+    background-color: black;
+    color: white;
+    border-radius: 17px;
+    padding: 10px 45px;
+    margin-left: 20px;
+    font-family: "DMsans", sans-serif;
+    font-size: 18px;
+    width: 45px;
+
+}
+
+
+#bt a {
+    color: white;
+}
+
+
+.esp{
+    border-radius: 20px;
+    padding: 10px 65px;
+    margin-left: 20px;
+}
+
+.partecima img{
+    height: 225px;
+}
+
+.ola{
+    font-family: "DMsans";
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.nome, .usuario{
+    font-family:  "Stalysa";
+}
+
+.bio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.nome{
+    font-size: 29px;
+    margin-top: 28px;
+}
+
+.usuario{
+    font-size:20px ;
+    margin-bottom: 30px;
+}
+
+.img{
+    display: flex;
+    
+    justify-content: center;
+}
+
+.fotos label{
+    padding-left: 138px;
+    font-family: "DMsans";
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.img img{
+    margin: 4px;
+    height: 270px;
+}
+
+.fotos{
+    margin-bottom: 100px;
+}
+
+.hobbies .nome{
+    font-size: 45px;
+    padding-left: 138px;
+    
+}
+
+.hobbies{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 95px;
+
+}
+
+.text{
+    font-family: "DMsans";
+    margin-left: 70px;
+    padding-right: 95px;
+    font-size: 27px;
+}
+
+.hobbieimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+
+.hobbieimg img{
+    margin: 5px;
+    height: 360px;
+}
+.livro{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    font-family: "DMsans";
+    padding: 105px 188px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #444444;
+}
+
+.livros{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: end;
+    font-family: "DMsans";
+    font-size: 25px;
+   
+}
+
+.livros p {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.lugares{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 460px;
+    margin-bottom: 60px;
+    
+    
+    
+    
+}
+
+.lugares img{
+   margin: 15px;
+   height: 450px;
+}
+
+
+#lugar{
+    font-size: 40px;
+    padding: 90px 130px;
+}
+
+.nomes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "DMsans";
+    font-size: 25px;
+    
+    
+}
+
+.nomes p {
+    margin-top: 10px;
+    
+}
+
+
+.espaco{
+    height: 60px;
+}
+
+
+.linha{
+    margin-top: 21px;
+    height: 0.5px;
+    background-color: #444444;
+}
+
+#final{
+    margin-top: 170px;
+    font-family: "Stalysa";
+    font-size: 50px;
+}
+
+.curio{
+    font-family: "DMsans";
+    font-size: 25px;
+    padding: 25px 110px 145px ;
+}
+
+#final, .curio{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.end{
+    font-family: "Stalysa";
+    font-size: 50px;
+
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 110px ;
+}
+
+
+#fot{
+    padding-top: px;
+}
